@@ -1,5 +1,50 @@
-.create{}
+.container {
+  padding: 50px;
+}
 
-.socialmedia{}
+.one {
+}
 
-.schedule{}
+.two {
+}
+
+.three {
+}
+
+.create {
+  background-color: hsl(31, 66%, 93%);
+  color: hsl(0, 0%, 7%);
+  margin-right: 15px;
+}
+.socialmedia {
+  background-color: hsl(256, 67%, 59%);
+  color: hsl(0, 0%, 100%);
+  margin: 0 15px 15px 0;
+}
+.schedule {
+  background-color: hsl(254, 88%, 90%);
+  color: hsl(0, 0%, 7%);
+}
+.manage {
+  background-color: hsl(0, 0%, 100%);
+  color: hsl(0, 0%, 7%);
+  margin-left: 290px;
+  width: 130px;
+}
+.maintain {
+  background-color: hsl(39, 100%, 71%);
+  color: hsl(0, 0%, 7%);
+  width: 130px;
+}
+.write {
+  background-color: hsl(39, 100%, 71%);
+  color: hsl(0, 0%, 7%);
+}
+.growth {
+  background-color: hsl(0, 0%, 100%);
+  color: hsl(0, 0%, 7%);
+}
+.followers {
+  background-color: hsl(256, 67%, 59%);
+  color: hsl(0, 0%, 100%);
+}
