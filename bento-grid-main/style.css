@@ -14,37 +14,66 @@
 
 .three {
 }
-.createcolumn {
-}
+
 .create {
   background-color: hsl(31, 66%, 93%);
   color: hsl(0, 0%, 7%);
+  grid-column: 1/2;
+  grid-row: 1/2;
+  height: 60%;
+  width: 40%;
+  margin-left: 235px;
 }
 .socialmedia {
   background-color: hsl(256, 67%, 59%);
   color: hsl(0, 0%, 100%);
+  grid-column: 2/3;
+  grid-row: 1/2;
+  height: 200px;
 }
 .schedule {
   background-color: hsl(254, 88%, 90%);
   color: hsl(0, 0%, 7%);
+  grid-column: 3/4;
+  grid-row: 1/2;
+  height: 90%;
+  width: 40%;
 }
 .manage {
   background-color: hsl(0, 0%, 100%);
   color: hsl(0, 0%, 7%);
+  grid-column: 2/3;
+  grid-row: 2/3;
+  height: 200px;
+  width: 50%;
 }
 .maintain {
   background-color: hsl(39, 100%, 71%);
   color: hsl(0, 0%, 7%);
+  grid-column: 2/3;
+  grid-row: 2/3;
+  height: 200px;
+  width: 50%;
+  margin-left: 200px;
+}
+.maintainimg {
+  object-fit: scale-down;
 }
 .write {
   background-color: hsl(39, 100%, 71%);
   color: hsl(0, 0%, 7%);
+  grid-column: 1/2;
+  grid-row: 3/4;
 }
 .growth {
   background-color: hsl(0, 0%, 100%);
   color: hsl(0, 0%, 7%);
+  grid-column: 2/3;
+  grid-row: 3/4;
 }
 .followers {
   background-color: hsl(256, 67%, 59%);
   color: hsl(0, 0%, 100%);
+  grid-column: 3/4;
+  grid-row: 3/4;
 }
