@@ -1,5 +1,6 @@
 .container {
   display: grid;
+  font-family: "DM Sans", sans-serif;
   gap: 15px;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
@@ -8,6 +9,7 @@
 .create {
   background-color: hsl(31, 66%, 93%);
   color: hsl(0, 0%, 7%);
+  font-weight: bolder;
   grid-column: 1/2;
   grid-row: 1/2;
   height: 90%;
