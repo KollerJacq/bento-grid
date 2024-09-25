@@ -44,6 +44,10 @@
   height: 200px;
   text-align: center;
 }
+.socialmediaheader {
+  font-size: 40px;
+  font-weight: lighte200r;
+}
 .ten {
   color: hsl(39, 100%, 71%);
 }
