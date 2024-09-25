@@ -43,18 +43,20 @@
   background-color: hsl(0, 0%, 100%);
   color: hsl(0, 0%, 7%);
   grid-column: 2/3;
-  grid-row: 2/3;
+  grid-row: 1/3;
   height: 200px;
   width: 50%;
+  margin-top: 210px;
 }
 .maintain {
   background-color: hsl(39, 100%, 71%);
   color: hsl(0, 0%, 7%);
   grid-column: 2/3;
-  grid-row: 2/3;
+  grid-row: 1/3;
   height: 200px;
   width: 50%;
   margin-left: 200px;
+  margin-top: 210px;
 }
 .maintainimg {
   object-fit: scale-down;
