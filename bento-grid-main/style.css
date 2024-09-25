@@ -9,12 +9,21 @@
 .create {
   background-color: hsl(31, 66%, 93%);
   color: hsl(0, 0%, 7%);
-  font-weight: bolder;
   grid-column: 1/2;
   grid-row: 1/2;
   height: 90%;
   width: 40%;
   margin-left: 230px;
+}
+.createtext {
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: -2px;
+  line-height: 20px;
+  padding: 40px 15px;
+}
+.quicker {
+  color: hsl(256, 67%, 59%);
 }
 .btn {
   background-color: hsl(39, 100%, 71%);
