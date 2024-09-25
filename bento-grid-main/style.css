@@ -16,11 +16,11 @@
   margin-left: 230px;
 }
 .createtext {
-  font-size: 22px;
-  font-weight: 600;
+  font-size: 25px;
+  font-weight: 550;
   letter-spacing: -2px;
   line-height: 20px;
-  padding: 40px 15px;
+  padding: 50px 15px 10px;
 }
 .quicker {
   color: hsl(256, 67%, 59%);
