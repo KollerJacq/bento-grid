@@ -107,6 +107,8 @@
 .followers {
   background-color: hsl(256, 67%, 59%);
   color: hsl(0, 0%, 100%);
+  display: grid;
+  grid-template-columns: auto 1fr;
   grid-column: 2/4;
   grid-row: 2/4;
   height: 170px;
@@ -116,4 +118,5 @@
 }
 .followersimg {
   width: 150px;
+  height: auto;
 }
